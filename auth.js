@@ -1,7 +1,7 @@
 function authenticate(login, password) {
   if (login === 'login') {
-    return "You are loggd in";
+    return "You were loggd in";
   } else {
-    return 'Login is correct';
+    return 'Login is incorrect!!!!!!!!';
   }
 }
